@@ -1,16 +1,13 @@
-## Hi there 👋
+# Alessandro Branz
 
-<!--
-**alessandrobranz/alessandrobranz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software developer interested in practical engineering, reproducible experiments and code quality.
 
-Here are some ideas to get you started:
+**Languages and tools:** Java · Kotlin · Python · SQL · Linux · Git · automated testing
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Selected public work
+
+- [GymTracker Showcase](https://github.com/alessandrobranz/gymtracker-showcase) — technical overview of an independently developed Android training application. Original app repository stays private.
+- [Python Terminal Lab](https://github.com/alessandrobranz/python-terminal-lab) — a file-integrity command-line tool with tests.
+- [Java & SQL Lab](https://github.com/alessandrobranz/java-sql-lab) — a small library catalog application and neutral SQL/PL/SQL exercises.
+
+These repositories contain personal work and self-contained examples. They do not represent or document an employer's software, datasets, or systems.
